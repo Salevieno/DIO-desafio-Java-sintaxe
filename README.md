@@ -1,3 +1,3 @@
 # DIO-desafio-Java-sintaxe
-Desafio de projeto da DIO - sintaxe Java
-\nsite: dio.me
+Desafio de projeto da DIO - sintaxe Java\
+site: dio.me
