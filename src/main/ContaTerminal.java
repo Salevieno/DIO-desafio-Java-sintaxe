@@ -1,6 +1,6 @@
-package main;
+package main ;
 
-import java.util.Scanner;
+import java.util.Scanner ;
 
 /**
  * @author Salevieno
@@ -32,6 +32,7 @@ public class ContaTerminal
 			System.out.println("Saldo: ") ;
 			double saldo = sc.nextDouble() ;
 			
-			System.out.printf(String.format("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %.2f já está disponível para saque.", nomeCliente, agencia, numeroConta, saldo)) ;}
+			System.out.printf(String.format("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %.2f já está disponível para saque.", nomeCliente, agencia, numeroConta, saldo)) ;
+		}
 	}
 }
